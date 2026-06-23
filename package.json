@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hiranmayie.github.io/hiranmayie-portfolio",
+  "homepage": "https://hiranmayie356-tech.github.io/hiranmayie-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
