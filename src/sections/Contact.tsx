@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FiMail, FiMapPin, FiLinkedin, FiGithub, FiCheckCircle, FiPhone, FiGlobe } from 'react-icons/fi';
+import { FiMail, FiMapPin, FiLinkedin, FiGithub, FiCheckCircle, FiPhone } from 'react-icons/fi';
 
 export default function Contact() {
   const [formData, setFormData] = useState({

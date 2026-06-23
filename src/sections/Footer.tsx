@@ -1,4 +1,4 @@
-import { FiGithub, FiLinkedin, FiMail, FiGlobe } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
 
 interface FooterProps {
   onScrollTo: (sectionId: string) => void;
